@@ -8,7 +8,7 @@
   <h2 align = "left">Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="50px"> </h2>
   <a href="https://github.com/WalliPereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalliPereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalliPereira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOlivera&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br><br>
 
