@@ -1,23 +1,23 @@
-<h1 align = center>Olá <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">  me chamo Wallisson</h1><br>
-<div align ="center">
-  <h2 align = "center">Analytics: <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-graficos-0.gif" width="50px"> </h2>
-  <a href="https://github.com/WalliPereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalliPereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalliPereira&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block"><br><br>
-  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=150&section=header"/>
 
-<h2 align="left"> Languages: <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="55px"> </h2>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title = "Python"/></code>
-<code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
-<code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
-<code><img width="40px" src="https://i.imgur.com/LMX3yhx.png" title = "Visual Studio Code"/></code>
+<div align="center">
   
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=900&color=F7230C&width=435&height=120&lines=Hi%2C+i'm+Wallisson!;Welcome+to+my+Github+%3AD)](https://git.io/typing-svg)
 </div>
+
+
+<div align="center">
   
-  ##
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WalliPereira&theme=shadow_red&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=1000)](https://git.io/streak-stats)
+</div>
+
+
+<div align="center" >
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WalliPereira&theme=high-contrast&bg_color=1C1C1C&color=FA2A2A&title_color=B22222&line=8B0000&area=true&area_color=8B0000&hide_border=true&radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+</div>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=150&section=footer"/>
